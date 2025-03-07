@@ -6,6 +6,8 @@ Welcome to my GitHub portfolio! 🚀 Here you'll find a collection of projects, 
 
 I’m a dedicated professional with extensive experience in tech support, cybersecurity, data visualization, and web development. I love solving complex problems and building innovative solutions that make a real difference.
 
+-✈️ Personal Interests: I love to travel, play video games 🎮, and shoot hoops 🏀
+
 ## Skills 🛠️
 
 -💻 Programming Languages: Python, JavaScript, HTML, CSS
@@ -27,7 +29,7 @@ RDP, troubleshooting, OS recovery , Device setup & configuration
 -🧠 Other Skills: Microsoft Office Suite, Google Workspace
 Logical problem-solving, critical thinking , Team leadership, project coordination
 
--✈️ Personal Interests: I love to travel, play video games 🎮, and shoot hoops 🏀—all of which inspire my creativity and broaden my perspective on technology and culture.
+
 
 ## Contact 📬
 
