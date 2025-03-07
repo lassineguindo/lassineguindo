@@ -6,10 +6,6 @@ Welcome to my GitHub portfolio! 🚀 Here you'll find a collection of projects, 
 
 I’m a dedicated professional with extensive experience in tech support, cybersecurity, data visualization, and web development. I love solving complex problems and building innovative solutions that make a real difference.
 
-
-
-Find me on LinkedIn: [Lassine Pierre Guindo](https://www.linkedin.com/in/lassine-pierre-guindo-541a70239/) 🔗
-
 ## Skills 🛠️
 
 -💻 Programming Languages: Python, JavaScript, HTML, CSS
