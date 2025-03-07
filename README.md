@@ -4,47 +4,34 @@ Welcome to my GitHub portfolio! 🚀 Here you'll find a collection of projects, 
 
 ## About Me 🌟
 
-I am Lassine Pierre Guindo, a passionate and motivated individual with a strong focus on technology and social impact. My background includes:
+I’m a dedicated professional with extensive experience in tech support, cybersecurity, data visualization, and web development. I love solving complex problems and building innovative solutions that make a real difference.
 
-- **Education**: Proficient in programming, data analysis, and network security. 📚
-- **Interests**: Quantum computing, environmental sustainability, digital equity, and creative coding projects. 🌍💻
-- **Hobbies**: Gaming (Call of Duty 🎮), working with Blender for 3D design 🎨, and exploring new technologies. 🤖
+
 
 Find me on LinkedIn: [Lassine Pierre Guindo](https://www.linkedin.com/in/lassine-pierre-guindo-541a70239/) 🔗
 
 ## Skills 🛠️
 
--🖥️ Programming Languages: Python, JavaScript, HTML,CSS
--🌐 Web Development: Building websites
--📊 Data Visualization: Google Looker Studio, basic SQL
--🔒 Cybersecurity: Wireshark, Snort, John the Ripper, VirtualBox, Kali Linux 
--🖥️ Networking & System Administration: Ubuntu, VirtualBox
--🎨 Creative Tools: Blender, Canon printer setup
+-💻 Programming Languages: Python, JavaScript, HTML, CSS
+
+-📊 Data Visualization/Analytics: Google Looker Studio (Call Center Data Analysis & Trend Monitoring)
+Basic SQL, Kibana
+
+-🔒 Cybersecurity: Wireshark, Event Viewer, Elastic Stack
+Snort, John the Ripper, VirtualBox
+Linux (Kali, Ubuntu, CentOS, Parrot OS)
+
+-🎨 Creative Tools: Blender, Canva
+
+-🌐 Web Development: WordPress, Wix, Squarespace
+
 -🛠️ Technical Support: Providing phone and in-person tech support
--🧠 Other Skills: Logical problem-solving, file interaction, subprocess management
-## Featured Projects 🌟
+RDP, troubleshooting, OS recovery , Device setup & configuration
 
-### 1. **Call Center Data Visualization** 📊
-- **Description**: Built interactive dashboards in Google Looker Studio using filters such as age, county, and call duration to analyze call center data trends.
-- **Skills Used**: Data visualization, storytelling, user-friendly interface design.
+-🧠 Other Skills: Microsoft Office Suite, Google Workspace
+Logical problem-solving, critical thinking , Team leadership, project coordination
 
-### 2. **Snort Network Security Rules** 🔐
-- **Description**: Created custom Snort rules to monitor and analyze network activity for suspicious patterns.
-- **Skills Used**: Network security, intrusion detection systems.
-
-### 3. **Presidential Eligibility Checker** 🗳️
-- **Description**: Developed a Python program that evaluates eligibility for U.S. presidency based on inputted criteria (age, citizenship, residency).
-- **Skills Used**: Python programming, logical conditions, user interaction.
-
-### 4. **Digital Equity Project** 🌐
-- **Description**: Brainstormed and developed initiatives to improve digital access for underserved communities.
-- **Skills Used**: Research, project management, and teamwork.
-
-## Tools & Equipment ⚙️
-
-- **Laptop**: ASUS TUF Gaming A16 💻
-- **Software**: Kali Linux 🐧, Google Looker Studio 📊, Blender 🎨
-- **Printer**: Canon 🖨️
+-✈️ Personal Interests: I love to travel, play video games 🎮, and shoot hoops 🏀—all of which inspire my creativity and broaden my perspective on technology and culture.
 
 ## Contact 📬
 
