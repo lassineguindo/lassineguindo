@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! 🚀 Here you'll find a collection of projects, 
 
 ## About Me 🌟
 
-I’m a dedicated professional with extensive experience in tech support, cybersecurity, data visualization, and web development. I love solving complex problems and building innovative solutions that make a real difference.
+I’m a dedicated professional with experience in tech support, cybersecurity, data visualization, and web development. I love solving complex problems and building innovative solutions that make a real difference.
 
 ✈️ Personal Interests: I love to travel, play video games 🎮, and shoot hoops 🏀
 
